@@ -45,15 +45,15 @@ Para `/clientes`, `/produtos` e `/pedidos`:
 
 **POST /clientes**
 ```json
-{ "nome": "Heleno4087639", "clienteDesde": "2026-11-06" }
+{ "nome": "Heleno Bins 4087639", "clienteDesde": "2026-03-15" }
 ```
 **POST /produtos**
 ```json
-{ "nome": "Baozi de Carne", "preco": 12.50, "estoque": true }
+{ "nome": "Baozi Tradicional de Carne Suína", "preco": 12.50, "estoque": true }
 ```
 **POST /pedidos**
 ```json
-{ "cliente": { "id": 1 }, "produto": { "id": 1 }, "quantidade": 5 }
+{ "cliente": { "id": 1 }, "produto": { "id": 1 }, "quantidade": 4 }
 ```
 
 Importe `postman/BaoziStore.postman_collection.json` no Postman para testar tudo.
