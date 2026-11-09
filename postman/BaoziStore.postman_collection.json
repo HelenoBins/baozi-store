@@ -27,7 +27,7 @@
         },
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"nome\": \"Heleno4087639\",\n  \"clienteDesde\": \"2026-11-06\"\n}",
+          "raw": "{\n  \"nome\": \"Heleno Bins 4087639\",\n  \"clienteDesde\": \"2026-03-15\"\n}",
           "options": {
             "raw": {
               "language": "json"
@@ -59,7 +59,7 @@
         },
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"nome\": \"Baozi de Carne\",\n  \"preco\": 12.5,\n  \"estoque\": true\n}",
+          "raw": "{\n  \"nome\": \"Baozi Tradicional de Carne Suína\",\n  \"preco\": 12.5,\n  \"estoque\": true\n}",
           "options": {
             "raw": {
               "language": "json"
@@ -91,7 +91,7 @@
         },
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"cliente\": {\n    \"id\": 1\n  },\n  \"produto\": {\n    \"id\": 1\n  },\n  \"quantidade\": 5\n}",
+          "raw": "{\n  \"cliente\": {\n    \"id\": 1\n  },\n  \"produto\": {\n    \"id\": 1\n  },\n  \"quantidade\": 4\n}",
           "options": {
             "raw": {
               "language": "json"
