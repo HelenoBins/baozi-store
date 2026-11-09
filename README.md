@@ -13,7 +13,7 @@ mvn spring-boot:run
 
 Ou abra a pasta no IntelliJ / Eclipse / VS Code (STS) e rode a classe `BaoziStoreApplication`.
 
-A API sobe em `http://localhost:8080`.
+A API sobe em `http://localhost:8081`.
 
 ## Banco de dados
 
