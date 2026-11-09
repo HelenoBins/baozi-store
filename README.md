@@ -18,7 +18,7 @@ A API sobe em `http://localhost:8081`.
 ## Banco de dados
 
 * **Padrão: H2** (arquivo `./data/baozidb`) – não precisa instalar nada.
-  Console: `http://localhost:8080/h2-console` (JDBC URL `jdbc:h2:file:./data/baozidb`, user `sa`, senha vazia).
+  Console: `http://localhost:8081/h2-console` (JDBC URL `jdbc:h2:file:./data/baozidb`, user `sa`, senha vazia).
 * **MySQL (opcional):** veja o bloco comentado em `src/main/resources/application.properties`.
 
 ## Entidades
